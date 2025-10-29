@@ -1,0 +1,15 @@
+# CRYPTO PRIVATE KEY VALIDATOR - Test Examples
+# by SHANE RUSSELL | October 28, 2025
+# WARNING: FAKE keys for TESTING ONLY
+
+# Example 1: Bitcoin WIF (FAKE)
+5HueCGU8rMjxEXxiPuD5BDku4MkFqeZyd4dZ1jvhTVqvbTLvyTJ
+
+# Example 2: Hex 64 chars (FAKE)
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+# Example 3: Ethereum (FAKE)
+0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+
+# Example 4: 12-word seed (FAKE)
+abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.Python
+build/
+dist/
+.venv/
+.idea/
+*.key
+*.wallet
+*.log
+desktop.ini
